@@ -39,3 +39,28 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+#landing {
+    background-image: url(img/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
+
+}
+
+.brandcolor {
+    color: #D6228A;
+}
+
+.white {
+    color: white;
+}
+
+#titulo{
+    font-family: 'Fira Sans', sans-serif;
+    color: white;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
